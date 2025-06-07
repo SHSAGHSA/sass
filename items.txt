@@ -5653,6 +5653,4 @@ public Action remwep(Handle timer)
 		RemoveEdict(ent);
 		ent = FindEntityByClassname(-1, "tf_dropped_weapon");
 	}
-}
-
-y agrega los efectos inusuales para las armas y elejir su ""calidad"" y spells, pero no modifiques los atributos de las armas, porque el tf2atributtes y demas esta para modificar su calidad,spells, warpaints y inusuales,
+},
